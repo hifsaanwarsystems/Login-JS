@@ -1,0 +1,11 @@
+{
+    "reporter": "cypress-mochawesome-reporter",
+    "reporterOptions": {
+      "reportDir": "cypress/report",
+      "charts": true,
+      "reportPageTitle": "Login Test",
+      "embeddedScreenshots": true
+    },
+    "video":true,
+    "projectId": "qyhofn"
+  }
